@@ -1,0 +1,3 @@
+# Module mywebapp
+# RPC service class, partial path of RPC policy file
+com.mycompany.mywebapp.GreetingService, 469F8017688391FF4CD79514A6FCF659.gwt.rpc
